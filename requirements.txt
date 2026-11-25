@@ -1,0 +1,14 @@
+faster-whisper
+kokoro-onnx
+sherpa-onnx
+numpy
+Pillow
+psutil
+pyttsx3
+sounddevice
+pystray
+pyautogui
+pypdf
+rapidfuzz
+rapidocr-onnxruntime
+comtypes

@@ -1,0 +1,38 @@
+# secrets - NEVER commit these
+api_key.txt
+telegram_token.txt
+telegram_secret.txt
+.env
+
+# your personal data
+settings.json
+memory.json
+todo.json
+alarms.json
+screenshots.json
+index_cache.json
+history_log.txt
+voiceprint.npy
+optimus.log
+logos/
+cursors/
+
+# big model files (download them yourself, see README)
+*.onnx
+*.bin
+*.gguf
+
+# python / editor / windows
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+Thumbs.db
+*.ico
+
+# local runtime files
+ipc_port.txt
+*.backup
+settings.json.tmp
